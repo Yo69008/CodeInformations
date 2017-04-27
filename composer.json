@@ -1,0 +1,25 @@
+{
+	"name" : "CodeInformations",
+	"author" : [
+	    {
+			"name" : "Yo69008",
+			"email" : "yoann.defarge@free.fr"
+		}
+	],
+	"keywords": ["api", "package-description"],
+	"require" : {
+		"phpunit/phpunit" : "6.1"
+	},
+	"description" : "simple api for take package's informations",
+	"version" : "1.0.1",	
+	"autoload" : {
+		"psr-4" : {
+			"FormationView\\MVC\\" : "library/view/src/mvc/",
+			"FindCode\\Test\\" : "test/",
+			"FindCode\\Api\\Controller\\" : "api/controller/",
+			"FindCode\\Api\\Model\\" : "api/model/",
+			"FindCode\\Api\\View\\" : "api/view/"
+
+		}
+	}
+}

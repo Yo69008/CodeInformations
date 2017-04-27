@@ -1,0 +1,11 @@
+{
+  "name": "infojs",
+  "version": "0.0.1",
+  "description": "This is a simply pop-up",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Yoann DEFARGE",
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+	"name" : "administrateur/formation-php",
+	"authors" : [{
+			"name" : "John Smith",
+			"email" : "john@example.com"
+		}
+	],
+	"require" : {
+		"psr/log" : "1.0.2",
+		"phpunit/phpunit" : "6.1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"FormationView\\MVC\\" : "lib/view/src/mvc/",
+			"FindCode\\Test\\" : "test/",
+			"FindCode\\Api\\Controller\\" : "api/controller/",
+			"FindCode\\Api\\Model\\" : "api/model/",
+			"FindCode\\Api\\View\\" : "api/view/",
+			"Lib\\Manager\\" : "lib/manager/"
+		}
+	}
+}
