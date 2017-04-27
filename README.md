@@ -80,8 +80,6 @@ http://ydefarge.alwaysdata.net/sebastianbergmann/phpunit
 }
 ```
 The informations have been recuperated which the read of the files package.json or composer.json check, if the code is available on npm or packagist, and travis.
-## Inspiration
-Learnin from PHP [psr-3](http://www.php-fig.org/psr/psr-3/)
 
 ## Authors
 
