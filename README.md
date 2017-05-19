@@ -2,7 +2,7 @@
 # CodeInformations
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c0fe123c8e3f47cc8e5ae6758ca8f7e2)](https://www.codacy.com/app/Yo69008/CodeInformations?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Yo69008/CodeInformations&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/Yo69008/CodeInformations.svg?branch=master)](https://travis-ci.org/Yo69008/CodeInformations)
+[![Build Status](https://travis-ci.org/yo69008/codeinformations.svg?branch=master)](https://travis-ci.org/yo69008/codeinformations)
 
 This API gives informations on a package. It makes it possible to obtain, if the information is indicated:
 - the name of the package
